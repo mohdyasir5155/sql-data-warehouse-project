@@ -36,9 +36,8 @@
 9. [Design Decisions and Challenges](#design-decisions-and-challenges)
 10. [Skills Demonstrated](#skills-demonstrated)
 11. [Repository Structure](#repository-structure)
-12. [How to Run](#how-to-run)
-13. [Future Improvements](#future-improvements)
-14. [About the Author](#about-the-author)
+12. [Future Improvements](#future-improvements)
+13. [About the Author](#about-the-author)
 
 ---
 
